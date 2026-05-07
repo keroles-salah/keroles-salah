@@ -1,16 +1,30 @@
-## Hi there 👋
+# Personal Portfolio Website
 
-<!--
-**keroles-salah/keroles-salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my personal portfolio website built to showcase my skills, projects, and experience as a CS student and developer.
 
-Here are some ideas to get you started:
+## Live Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit: https://keroles-sala.me
+
+## Features
+
+- Responsive design
+- Hero section
+- About section
+- Experience section
+- Projects section
+- Skills section
+- Contact section
+- Custom domain with GitHub Pages
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+- Namecheap Custom Domain
+
+## Author
+
+Keroles Salah Fakhry
