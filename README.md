@@ -1,113 +1,110 @@
-# Hi, I'm Keroles Salah Fakhry 👋
-
 <div align="center">
 
-## CS Student | Problem Solving Mentor | Tech Educator
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,100:06B6D4&text=Keroles%20Salah%20Fakhry&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solving%20Mentor%20%7C%20Tech%20Educator&descAlignY=58&descSize=16" />
 
-I’m a Computer Science student passionate about programming, problem solving, web development, databases, and creating educational content that helps students learn faster and better.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Problem+Solving+Mentor;Frontend+Developer;Educational+Content+Creator;Always+Learning+%26+Building" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-keroles--sala.me-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keroles-sala.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keroles%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolessalah05/)
-[![YouTube](https://img.shields.io/badge/YouTube-Keroles%20Salah-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kerlssalah)
-[![GitHub](https://img.shields.io/badge/GitHub-keroles--salah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keroles-salah)
+<br><br>
+
+<a href="https://keroles-sala.me">
+  <img src="https://img.shields.io/badge/Portfolio-keroles--sala.me-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kerolessalah05/">
+  <img src="https://img.shields.io/badge/LinkedIn-Keroles%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@kerlssalah">
+  <img src="https://img.shields.io/badge/YouTube-@kerlssalah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:keroles.salah.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Who Am I?
 
-- 🎓 Computer Science student at **Assiut National University**
-- 🧠 Problem Solving Mentor at **ANU ICPC Community**
-- 👨‍🏫 Former Problem Solving Mentor at **EELU ICPC Community**
-- 🎨 Graphic Designer at **Human For Good Community**
-- 🎥 Educational Content Creator on YouTube
-- 💻 Interested in **Web Development, Python, Databases, Data Structures, and AI**
-- 📚 I enjoy simplifying technical topics for students and beginners
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+```javascript
+const keroles = {
+  fullName: "Keroles Salah Fakhry",
+  role: "Computer Science Student & Tech Educator",
+  location: "Assiut, Egypt",
+  university: "Assiut National University",
+  interests: ["Web Development", "Problem Solving", "Databases", "AI", "Education"],
+  currentFocus: "Building useful projects and helping students learn programming"
+};
+```
 
 ---
 
-## 💼 Featured Projects
-
-### 🌐 Personal Portfolio Website
-A modern responsive portfolio website built to showcase my skills, experience, projects, certifications, and contact links.
-
-- **Live Demo:** [keroles-sala.me](https://keroles-sala.me)
-- **Repository:** [keroles-salah.github.io](https://github.com/keroles-salah/keroles-salah.github.io)
-- **Tech:** HTML, CSS, JavaScript, Tailwind CSS, GitHub Pages, Namecheap
-
-### 🎓 Fox Academy
-An educational web platform frontend that helps students access YouTube videos, PDFs, and documentation faster.
-
-- **Tech:** HTML, CSS, JavaScript
-
-### 🎥 YouTube Educational Content
-Educational playlists and tutorials focused on technical topics for students and beginners.
-
-- Microsoft Access playlists
-- SQL tutorials and walkthroughs
-- Data Structures explanations
-- Problem-solving content
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- Machine Learning Basics
-- Web Development Projects
-- Database Systems
-- Clean Code & Project Architecture
-
----
-
-## 📊 GitHub Stats
+## Tech Arsenal
 
 <div align="center">
 
-![Keroles GitHub Stats](https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=keroles-salah&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,cpp,mysql,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📫 Contact Me
+## Professional Highlights
 
-- 🌐 Portfolio: [keroles-sala.me](https://keroles-sala.me)
-- 💼 LinkedIn: [Keroles Salah](https://www.linkedin.com/in/kerolessalah05/)
-- 🎥 YouTube: [@kerlssalah](https://www.youtube.com/@kerlssalah)
-- 💻 GitHub: [@keroles-salah](https://github.com/keroles-salah)
-- 📧 Email: [keroles.salah.official@gmail.com](mailto:keroles.salah.official@gmail.com)
+- Mentoring students in problem solving and algorithmic thinking
+- Creating educational content for programming and database topics
+- Building responsive web interfaces with clean UI
+- Explaining complex technical concepts in a simple way
+- Combining design, teaching, and development to create useful learning experiences
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| Personal Portfolio | Modern responsive personal website with custom domain | HTML, CSS, JS, Tailwind |
+| Fox Academy | Educational platform frontend for learning resources | HTML, CSS, JS |
+| Educational YouTube Content | Tutorials for SQL, Access, Data Structures, and Problem Solving | Teaching, Content Creation |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=keroles-salah&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=keroles-salah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## Current Learning Path
+
+```text
+Data Structures & Algorithms  █████████░░
+Web Development Projects      ████████░░░
+Database Systems              ████████░░░
+Machine Learning Basics       █████░░░░░░
+Clean Code & Architecture     ██████░░░░░
+```
 
 ---
 
 <div align="center">
 
-### “Keep learning, keep building, and turn every problem into progress.”
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,100:6366F1&section=footer" />
 
 </div>
