@@ -1,110 +1,107 @@
-<div align="center">
+# Keroles Salah Fakhry
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,100:06B6D4&text=Keroles%20Salah%20Fakhry&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solving%20Mentor%20%7C%20Tech%20Educator&descAlignY=58&descSize=16" />
+> Computer Science Student · Problem Solving Mentor · Content Creator · Frontend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Problem+Solving+Mentor;Frontend+Developer;Educational+Content+Creator;Always+Learning+%26+Building" />
-
-<br><br>
-
-<a href="https://keroles-sala.me">
-  <img src="https://img.shields.io/badge/Portfolio-keroles--sala.me-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kerolessalah05/">
-  <img src="https://img.shields.io/badge/LinkedIn-Keroles%20Salah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@kerlssalah">
-  <img src="https://img.shields.io/badge/YouTube-@kerlssalah-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:keroles.salah.official@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+I build educational, clean, and practical digital solutions while helping students understand programming and problem solving.
 
 ---
 
-## Who Am I?
+## Digital Presence
 
-```javascript
-const keroles = {
-  fullName: "Keroles Salah Fakhry",
-  role: "Computer Science Student & Tech Educator",
-  location: "Assiut, Egypt",
-  university: "Assiut National University",
-  interests: ["Web Development", "Problem Solving", "Databases", "AI", "Education"],
-  currentFocus: "Building useful projects and helping students learn programming"
-};
-```
+[Portfolio](https://keroles-sala.me) · [LinkedIn](https://www.linkedin.com/in/kerolessalah05/) · [YouTube](https://www.youtube.com/@kerlssalah) · [GitHub](https://github.com/keroles-salah) · [Email](mailto:keroles.salah.official@gmail.com)
 
 ---
 
-## Tech Arsenal
+## Profile Summary
 
-<div align="center">
+I am a Computer Science student at Assiut National University. My work combines programming, mentoring, content creation, and design. I focus on building projects that are useful, clear, and educational.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,cpp,mysql,git,github,vscode" />
-
-</div>
+My strongest areas are frontend development, databases, problem solving, and explaining technical topics to students.
 
 ---
 
-## Professional Highlights
+## Core Skills Matrix
 
-- Mentoring students in problem solving and algorithmic thinking
-- Creating educational content for programming and database topics
-- Building responsive web interfaces with clean UI
-- Explaining complex technical concepts in a simple way
-- Combining design, teaching, and development to create useful learning experiences
+| Area | Skills |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, Tailwind CSS |
+| Programming | Python, C++, JavaScript |
+| Database | SQL, MySQL, Microsoft Access |
+| Tools | Git, GitHub, VS Code, Canva |
+| Education | Mentoring, Technical Explanation, Content Creation |
+| Soft Skills | Communication, Presentation, Self-Learning, Problem Solving |
 
 ---
 
-## Featured Projects
+## Experience Snapshot
 
-<div align="center">
-
-| Project | Description | Tech |
+| Role | Organization | Period |
 |---|---|---|
-| Personal Portfolio | Modern responsive personal website with custom domain | HTML, CSS, JS, Tailwind |
-| Fox Academy | Educational platform frontend for learning resources | HTML, CSS, JS |
-| Educational YouTube Content | Tutorials for SQL, Access, Data Structures, and Problem Solving | Teaching, Content Creation |
-
-</div>
+| Problem Solving Mentor | ANU ICPC Community | Mar 2025 - Present |
+| Problem Solving Mentor | EELU ICPC Community | Oct 2024 - Feb 2025 |
+| Graphic Designer | Human For Good Community | Apr 2024 - Present |
+| Content Creator | YouTube | Dec 2023 - Present |
 
 ---
 
-## GitHub Analytics
+## Certifications
+
+- SQL Basic - HackerRank
+- SQL Intermediate - HackerRank
+- Introduction to Web Technologies - ITI Assiut Branch
+
+---
+
+## Selected Projects
+
+### Personal Portfolio Website
+A modern personal website showcasing my background, skills, experience, and contact links.
+
+- Website: https://keroles-sala.me
+- Repository: https://github.com/keroles-salah/keroles-salah.github.io
+- Stack: HTML, CSS, JavaScript, Tailwind CSS, GitHub Pages
+
+### Fox Academy
+Educational web platform frontend for collecting learning resources such as YouTube videos, PDFs, and documentation.
+
+- Stack: HTML, CSS, JavaScript
+
+### Educational Content Channel
+YouTube content focused on SQL, Microsoft Access, Data Structures, and problem solving.
+
+- Channel: https://www.youtube.com/@kerlssalah
+
+---
+
+## GitHub Metrics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=keroles-salah&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=keroles-salah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
-## Current Learning Path
+## What I Am Working On
 
-```text
-Data Structures & Algorithms  █████████░░
-Web Development Projects      ████████░░░
-Database Systems              ████████░░░
-Machine Learning Basics       █████░░░░░░
-Clean Code & Architecture     ██████░░░░░
-```
+- Improving my portfolio and GitHub profile
+- Building stronger web projects
+- Studying data structures and algorithms deeply
+- Creating more educational content
+- Practicing clean project structure and documentation
 
 ---
 
-<div align="center">
+## Contact
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,100:6366F1&section=footer" />
+For collaborations, mentoring, or project discussions:
 
-</div>
+- Email: keroles.salah.official@gmail.com
+- Portfolio: https://keroles-sala.me
+- LinkedIn: https://www.linkedin.com/in/kerolessalah05/
+
+---
+
+**Learning never stops. Build, improve, repeat.**
