@@ -227,11 +227,7 @@ Machine Learning Basics          █████░░░░░░
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Keroles%20Salah%20GitHub%20Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=keroles-salah&theme=tokyonight&hide_border=true" />
 
