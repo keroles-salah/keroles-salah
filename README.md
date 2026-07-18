@@ -74,7 +74,7 @@
 |                                                  |
 |  $ cat ./status.json                             |
 |  > Status:  Building, learning, and shipping.    |
-|  > Focus:   Artificial Intelligence & Web        |
+|  > Focus:   Artificial Intelligence & ML         |
 |  > Mission: Empower the next generation.         |
 |                                                  |
 |  $ _                                              |
@@ -145,6 +145,8 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=0a0a0f&color=7c3aed&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=0a0a0f&color=8b5cf6&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=0a0a0f&color=6d28d9&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&labelColor=0a0a0f&color=ef4444&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&labelColor=0a0a0f&color=f59e0b&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&labelColor=0a0a0f&color=059669&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&labelColor=0a0a0f&color=8b5cf6&logo=canva&logoColor=white" />
 <img src="https://img.shields.io/badge/Tech_Writing-0F172A?style=for-the-badge&labelColor=0a0a0f&color=a78bfa&logo=readme&logoColor=white" />
@@ -171,7 +173,7 @@
 <table width="100%"><tr><td bgcolor="#0a0a0f">
 
 > 🤖 **Artificial Intelligence & Machine Learning**
-> Building foundational knowledge, hands-on projects
+> Building projects, hands-on training, model deployment
 >
 > 🎓 **ICPC Mentor @ ANU**
 > Teaching algorithms, data structures & logical thinking
@@ -198,8 +200,8 @@ Data Structures & Algorithms   ████████████████�
 Problem Solving                ██████████████████░░░  85%
 Frontend Development           █████████████████░░░░  80%
 Database Systems               ████████████████░░░░░  80%
+Machine Learning & AI          ██████████████░░░░░░░  65%
 Clean Code & Documentation     ██████████████░░░░░░░  70%
-Machine Learning & AI          ██████████░░░░░░░░░░░  50%
 ```
 
 </td></tr></table>
@@ -225,15 +227,17 @@ Machine Learning & AI          ██████████░░░░░░�
   ──────────────────────────────────────────
   [✓] Python for ML
   [✓] NumPy & Pandas
-  [~] Supervised Learning ──── 50%
-  [ ] Neural Networks
-  [ ] Deep Learning
+  [✓] Supervised Learning ──── 100%
+  [✓] Scikit-learn Pipelines & Model Deployment
+  [~] Neural Networks & Deep Learning ── 20%
   [ ] NLP
   [ ] Computer Vision
   [ ] LLMs
   ──────────────────────────────────────────
-  Overall Progress: 25%
-  ██████░░░░░░░░░░░░░░░░░░░░░░
+  Overall Progress: 45%
+  ██████████░░░░░░░░░░░░░░░░░░
+
+  Latest Project: Bank Churn Predictor (Streamlit + Random Forest)
 ```
 
 </td></tr></table>
@@ -301,12 +305,15 @@ Machine Learning & AI          ██████████░░░░░░�
 
 <table width="100%"><tr><td bgcolor="#0a0a0f">
 
-### ⏱️ TimeFlow Tracker
+### 🏦 Bank Churn Predictor
 <br>
 
-> Smart Chrome extension — track browsing time by site, category, and day with goals & analytics dashboard.
+> Interactive web app for predicting bank customer churn. Streamlit + Random Forest + full ML pipeline with 86.8% accuracy.
 
-`JavaScript` `Chrome Extension`
+`Python` `Streamlit` `scikit-learn` `pandas`
+
+<br>
+[🔗 Live Repo](https://github.com/keroles-salah/churn-predictor)
 
 </td></tr></table>
 
@@ -320,6 +327,19 @@ Machine Learning & AI          ██████████░░░░░░�
 > YouTube-style keyboard controls for SharePoint video: OSD, bookmarks, A-B repeat, PiP, screenshot, speed presets.
 
 `JavaScript` `Chrome Extension`
+
+</td></tr></table>
+
+<br>
+
+<table width="100%"><tr><td bgcolor="#0a0a0f">
+
+### 📝 Maestra Live
+<br>
+
+> Real-time audio transcription using Maestra API with multi-worker parallel processing.
+
+`Python` `AsyncIO`
 
 </td></tr></table>
 
@@ -341,6 +361,19 @@ Machine Learning & AI          ██████████░░░░░░�
 
 <table width="100%"><tr><td bgcolor="#0a0a0f">
 
+### ⏱️ TimeFlow Tracker
+<br>
+
+> Smart Chrome extension — track browsing time by site, category, and day with goals & analytics dashboard.
+
+`JavaScript` `Chrome Extension`
+
+</td></tr></table>
+
+<br>
+
+<table width="100%"><tr><td bgcolor="#0a0a0f">
+
 ### 🔗 LinkedOut
 <br>
 
@@ -351,39 +384,6 @@ Machine Learning & AI          ██████████░░░░░░�
 </td></tr></table>
 
 <br>
-
-<table width="100%"><tr><td bgcolor="#0a0a0f">
-
-### 🧠 InsightFace Recognition
-<br>
-
-> Face recognition project using InsightFace for name identification from images.
-
-`Python` `InsightFace` `OpenCV`
-
-</td></tr></table>
-
-</td>
-</tr></table>
-
-<br>
-
-<table width="100%"><tr>
-<td width="50%" valign="top">
-
-<table width="100%"><tr><td bgcolor="#0a0a0f">
-
-### 📝 Maestra Live
-<br>
-
-> Real-time audio transcription using Maestra API with multi-worker parallel processing.
-
-`Python` `AsyncIO`
-
-</td></tr></table>
-
-</td>
-<td width="50%" valign="top">
 
 <table width="100%"><tr><td bgcolor="#0a0a0f">
 
@@ -444,14 +444,14 @@ Machine Learning & AI          ██████████░░░░░░�
 <a href="https://github.com/keroles-salah/keroles-salah.github.io">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=keroles-salah.github.io&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
 </a>
+<a href="https://github.com/keroles-salah/churn-predictor">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=churn-predictor&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
+</a>
 <a href="https://github.com/keroles-salah/efteqad-web">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=efteqad-web&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
 </a>
 <a href="https://github.com/keroles-salah/linkedout">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=linkedout&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
-</a>
-<a href="https://github.com/keroles-salah/insightface_name_recognition_project">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=insightface_name_recognition_project&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
 </a>
 
 </div>
