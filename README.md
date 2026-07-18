@@ -45,7 +45,6 @@
 <!-- LIVE COUNTERS -->
 <img src="https://komarev.com/ghpvc/?username=keroles-salah&label=VISITORS&color=c084fc&style=flat-square&labelColor=0a0a0f" />
 <img src="https://img.shields.io/github/followers/keroles-salah?label=FOLLOWERS&style=flat-square&color=6d28d9&labelColor=0a0a0f" />
-<img src="https://img.shields.io/github/repos/keroles-salah?label=REPOSITORIES&style=flat-square&color=a78bfa&labelColor=0a0a0f" />
 
 </div>
 
@@ -96,13 +95,13 @@
 
 <table><tr>
 <td align="center" width="33%">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=keroles-salah&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=c084fc&icon_color=c084fc&text_color=a78bfa&bg_color=0a0a0f" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keroles-salah&theme=midnight_purple" />
 </td>
 <td align="center" width="33%">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keroles-salah&layout=compact&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&langs_count=6" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keroles-salah&theme=midnight_purple" />
 </td>
 <td align="center" width="33%">
-  <img height="165em" src="https://streak-stats.demolab.com?user=keroles-salah&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0a0a0f&stroke=c084fc&ring=c084fc&fire=c084fc&currStreakNum=c084fc&sideNums=a78bfa&currStreakLabel=c084fc&sideLabels=a78bfa&dates=6b7280" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=keroles-salah&theme=midnight_purple&utcOffset=2" />
 </td>
 </tr></table>
 
@@ -421,19 +420,6 @@ Clean Code & Documentation     ██████████████░░�
 
 ---
 
-<!-- TROPHIES -->
-<div align="center">
-
-## 🏆 ACHIEVEMENTS
-
-<br>
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=keroles-salah&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title_color=c084fc" />
-
-</div>
-
----
-
 <!-- PINNED -->
 <div align="center">
 
@@ -441,18 +427,38 @@ Clean Code & Documentation     ██████████████░░�
 
 <br>
 
-<a href="https://github.com/keroles-salah/keroles-salah.github.io">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=keroles-salah.github.io&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
-</a>
-<a href="https://github.com/keroles-salah/churn-predictor">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=churn-predictor&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
-</a>
-<a href="https://github.com/keroles-salah/efteqad-web">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=efteqad-web&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
-</a>
-<a href="https://github.com/keroles-salah/linkedout">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=keroles-salah&repo=linkedout&theme=midnight-purple&hide_border=true&title_color=c084fc&text_color=a78bfa&bg_color=0a0a0f&icon_color=c084fc" />
-</a>
+<table><tr>
+<td width="50%" align="center">
+
+### 🏦 Bank Churn Predictor
+> ML web app — Random Forest + Streamlit
+> `Python` `Streamlit` `scikit-learn`
+> ⭐ [View Repo](https://github.com/keroles-salah/churn-predictor)
+
+<br>
+
+### 🔗 LinkedOut
+> LinkedIn automation & utilities
+> `HTML` `JavaScript`
+> ⭐ [View Repo](https://github.com/keroles-salah/linkedout)
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 Portfolio
+> Personal website — keroles-sala.me
+> `HTML` `CSS` `JavaScript` `Tailwind`
+> ⭐ [View Repo](https://github.com/keroles-salah/keroles-salah.github.io)
+
+<br>
+
+### 🎓 Efteqad (Fox Academy)
+> Full-stack educational platform
+> `C#` `ASP.NET Core` `SQL Server`
+> ⭐ [View Repo](https://github.com/keroles-salah/efteqad-web)
+
+</td>
+</tr></table>
 
 </div>
 
